@@ -1,0 +1,5 @@
+time_of_day,total_flights,operated_flights,avg_departure_delay_int,avg_departure_delay_time,avg_arrival_delay_int,avg_arrival_delay_time
+Afternoon,2141110,2109063,11,00:11:25,7,00:06:33
+Night,140597,138309,3,00:02:47,-3,-00:02:53
+Morning,2263032,2231521,5,00:04:58,0,00:00:12
+Evening,1274340,1250302,14,00:14:22,9,00:09:04

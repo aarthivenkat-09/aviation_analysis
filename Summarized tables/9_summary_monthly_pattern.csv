@@ -1,0 +1,13 @@
+month_num,month_name,total_flights,cancelled_flights,cancellation_pct,avg_departure_delay_mins,avg_departure_delay_time,avg_arrival_delay_mins,avg_arrival_delay_time,season
+1,January,469968,11982,2.55,10,00:09:44,6,00:05:48,Winter
+2,February,429191,20517,4.78,12,00:11:49,8,00:08:18,Winter
+3,March,504312,11002,2.18,10,00:09:38,5,00:04:55,Spring
+4,April,485151,4520,0.93,8,00:07:41,3,00:03:09,Spring
+5,May,496993,5694,1.15,9,00:09:25,4,00:04:28,Spring
+6,June,503897,9120,1.81,14,00:13:57,10,00:09:34,Summer
+7,July,520718,4806,0.92,11,00:11:22,6,00:06:25,Summer
+8,August,510536,5052,0.99,10,00:09:55,5,00:04:36,Summer
+9,September,464946,2075,0.45,5,00:04:49,-1,-00:00:46,Fall
+10,October,486165,2454,0.50,5,00:04:58,-1,-00:00:47,Fall
+11,November,467972,4599,0.98,7,00:06:55,1,00:01:06,Fall
+12,December,479230,8063,1.68,12,00:11:44,6,00:06:04,Winter

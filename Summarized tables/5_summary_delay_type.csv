@@ -1,0 +1,7 @@
+delay_type,total_delay_mins_int,total_delay_hours,total_delay_days,delay_pct
+"Airline Delay",20172956,336215.93,14009.00,29.19
+"Weather Delay",3100233,51670.55,2152.94,4.49
+"Air System Delay",14335762,238929.37,9955.39,20.75
+"Security Delay",80985,1349.75,56.24,0.12
+"Late Aircraft Delay",24961931,416032.18,17334.67,36.12
+"Operational Delay",6451500,107525.00,4480.21,9.34

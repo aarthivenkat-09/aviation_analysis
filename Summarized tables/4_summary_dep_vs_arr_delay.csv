@@ -1,0 +1,2 @@
+total_flights,avg_departure_delay_int,avg_departure_delay_time,avg_arrival_delay_int,avg_arrival_delay_time,delay_difference_int,delay_difference_time
+5729195,9,00:09:20,4,00:04:24,-5,-00:04:57

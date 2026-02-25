@@ -1,0 +1,27 @@
+day_of_week_num,day_of_week_name,cancellation_code,cancellation_reason,cancelled_flights,cancellation_pct
+1,Monday,A,"Inclement weather",4420,20.97
+1,Monday,B,"Technical issues",12704,60.29
+1,Monday,C,"Operational issues",3945,18.72
+1,Monday,D,"Security issues",4,0.02
+2,Tuesday,A,"Inclement weather",4365,28.96
+2,Tuesday,B,"Technical issues",8381,55.61
+2,Tuesday,C,"Operational issues",2322,15.41
+2,Tuesday,D,"Security issues",4,0.03
+3,Wednesday,A,"Inclement weather",3808,35.49
+3,Wednesday,B,"Technical issues",4990,46.51
+3,Wednesday,C,"Operational issues",1923,17.92
+3,Wednesday,D,"Security issues",8,0.07
+4,Thursday,A,"Inclement weather",3573,29.07
+4,Thursday,B,"Technical issues",5875,47.80
+4,Thursday,C,"Operational issues",2843,23.13
+5,Friday,A,"Inclement weather",3403,38.65
+5,Friday,B,"Technical issues",3948,44.84
+5,Friday,C,"Operational issues",1449,16.46
+5,Friday,D,"Security issues",5,0.06
+6,Saturday,A,"Inclement weather",2642,30.20
+6,Saturday,B,"Technical issues",4745,54.23
+6,Saturday,C,"Operational issues",1361,15.56
+6,Saturday,D,"Security issues",1,0.01
+7,Sunday,A,"Inclement weather",3051,23.18
+7,Sunday,B,"Technical issues",8208,62.35
+7,Sunday,C,"Operational issues",1906,14.48

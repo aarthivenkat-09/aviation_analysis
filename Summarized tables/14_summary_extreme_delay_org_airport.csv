@@ -1,0 +1,582 @@
+airport_code,airport_name,extreme_delay_flights,avg_extreme_arrival_delay_mins,avg_arrival_delay_time
+ORD,"Chicago O'Hare International Airport",8126,190,03:09:57
+ATL,"Hartsfield-Jackson Atlanta International Airport",5707,189,03:09:00
+DFW,"Dallas/Fort Worth International Airport",5081,189,03:08:41
+DEN,"Denver International Airport",4016,184,03:03:44
+LAX,"Los Angeles International Airport",3539,192,03:11:32
+IAH,"George Bush Intercontinental Airport",3321,188,03:08:12
+LGA,"LaGuardia Airport (Marine Air Terminal)",3067,191,03:10:41
+SFO,"San Francisco International Airport",3053,194,03:13:47
+MCO,"Orlando International Airport",2992,197,03:17:16
+EWR,"Newark Liberty International Airport",2729,187,03:07:24
+JFK,"John F. Kennedy International Airport (New York International Airport)",2521,199,03:18:49
+LAS,"McCarran International Airport",2480,196,03:16:17
+BOS,"Gen. Edward Lawrence Logan International Airport",2314,195,03:15:09
+DTW,"Detroit Metropolitan Airport",2289,194,03:13:53
+BWI,"Baltimore-Washington International Airport",2021,192,03:12:22
+PHX,"Phoenix Sky Harbor International Airport",1956,189,03:08:33
+FLL,"Fort Lauderdale-Hollywood International Airport",1647,189,03:08:50
+MSP,"Minneapolis-Saint Paul International Airport",1638,196,03:16:27
+CLT,"Charlotte Douglas International Airport",1604,186,03:06:18
+PHL,"Philadelphia International Airport",1603,194,03:14:18
+DCA,"Ronald Reagan Washington National Airport",1588,201,03:21:13
+MIA,"Miami International Airport",1570,190,03:09:52
+MDW,"Chicago Midway International Airport",1526,180,03:00:06
+TPA,"Tampa International Airport",1457,199,03:18:57
+SEA,"Seattle-Tacoma International Airport",1305,195,03:15:19
+SLC,"Salt Lake City International Airport",1080,201,03:21:21
+SAN,"San Diego International Airport (Lindbergh Field)",1034,197,03:17:20
+IAD,"Washington Dulles International Airport",1010,197,03:17:10
+DAL,"Dallas Love Field",1002,181,03:01:25
+HOU,"William P. Hobby Airport",955,182,03:01:56
+AUS,"Austin-Bergstrom International Airport",942,209,03:28:44
+BNA,"Nashville International Airport",926,206,03:26:19
+STL,"St. Louis International Airport at Lambert Field",866,196,03:15:46
+MSY,"Louis Armstrong New Orleans International Airport",802,196,03:16:11
+CLE,"Cleveland Hopkins International Airport",776,215,03:35:25
+MCI,"Kansas City International Airport",751,206,03:26:26
+RDU,"Raleigh-Durham International Airport",704,205,03:24:55
+PDX,"Portland International Airport",619,206,03:25:44
+PBI,"Palm Beach International Airport",609,199,03:18:39
+MKE,"General Mitchell International Airport",587,209,03:28:48
+OAK,"Oakland International Airport",577,172,02:52:05
+RSW,"Southwest Florida International Airport",573,200,03:20:20
+CMH,"Port Columbus International Airport",561,209,03:29:13
+IND,"Indianapolis International Airport",542,210,03:30:02
+SJC,"Norman Y. Mineta San José International Airport",523,186,03:06:19
+CVG,"Cincinnati/Northern Kentucky International Airport",512,209,03:28:31
+SJU,"Luis Muñoz Marín International Airport",493,226,03:46:05
+SAT,"San Antonio International Airport",467,212,03:31:40
+SMF,"Sacramento International Airport",461,212,03:31:45
+RIC,"Richmond International Airport",420,231,03:50:31
+SNA,"John Wayne Airport (Orange County Airport)",414,198,03:17:38
+11298,"Airport Code: 11298",397,207,03:27:16
+OKC,"Will Rogers World Airport",385,222,03:41:31
+JAX,"Jacksonville International Airport",384,213,03:33:25
+PIT,"Pittsburgh International Airport",379,200,03:19:39
+MEM,"Memphis International Airport",368,219,03:38:39
+BDL,"Bradley International Airport",358,200,03:20:04
+OMA,"Eppley Airfield",334,227,03:47:17
+XNA,"Northwest Arkansas Regional Airport",334,217,03:37:11
+ABQ,"Albuquerque International Sunport",317,227,03:46:43
+BUF,"Buffalo Niagara International Airport",316,202,03:21:33
+HNL,"Honolulu International Airport",310,284,04:44:00
+BHM,"Birmingham-Shuttlesworth International Airport",297,212,03:31:38
+TUL,"Tulsa International Airport",292,207,03:26:45
+ONT,"Ontario International Airport",285,199,03:18:36
+CHS,"Charleston International Airport/Charleston AFB",282,212,03:32:03
+LIT,"Bill and Hillary Clinton National Airport (Adams Field)",261,216,03:36:06
+HPN,"Westchester County Airport",260,206,03:25:58
+BOI,"Boise Airport (Boise Air Terminal)",248,240,04:00:25
+GRR,"Gerald R. Ford International Airport",246,224,03:44:24
+DSM,"Des Moines International Airport",239,226,03:46:10
+BTR,"Baton Rouge Metropolitan Airport",237,213,03:33:09
+TUS,"Tucson International Airport",237,209,03:29:09
+12266,"Airport Code: 12266",236,193,03:13:01
+BUR,"Bob Hope Airport (Hollywood Burbank Airport)",236,177,02:57:02
+13930,"Airport Code: 13930",229,179,02:58:34
+CID,"The Eastern Iowa Airport",224,214,03:34:21
+PVD,"Theodore Francis Green State Airport",223,186,03:06:28
+PSP,"Palm Springs International Airport",218,209,03:29:05
+SDF,"Louisville International Airport (Standiford Field)",215,220,03:40:10
+ICT,"Wichita Dwight D. Eisenhower National Airport (Wichita Mid-Continent Airport)",214,232,03:52:13
+10397,"Airport Code: 10397",212,174,02:53:58
+SHV,"Shreveport Regional Airport",212,208,03:27:43
+ORF,"Norfolk International Airport",209,234,03:54:27
+TYS,"McGhee Tyson Airport",208,219,03:38:47
+14771,"Airport Code: 14771",206,179,02:59:12
+DAY,"James M. Cox Dayton International Airport",205,195,03:15:08
+COS,"City of Colorado Springs Municipal Airport",203,224,03:44:10
+ELP,"El Paso International Airport",201,221,03:40:49
+GSO,"Piedmont Triad International Airport",199,201,03:21:20
+MSN,"Dane County Regional Airport",197,209,03:28:47
+SGF,"Springfield-Branson National Airport",193,216,03:36:08
+SAV,"Savannah/Hilton Head International Airport",191,208,03:27:59
+RNO,"Reno/Tahoe International Airport",189,212,03:32:03
+FAT,"Fresno Yosemite International Airport",184,228,03:48:07
+OGG,"Kahului Airport",181,239,03:58:42
+12892,"Airport Code: 12892",175,210,03:29:31
+11292,"Airport Code: 11292",172,190,03:10:14
+JAN,"Jackson-Evers International Airport",165,214,03:34:22
+12953,"Airport Code: 12953",162,203,03:23:28
+12889,"Airport Code: 12889",161,205,03:24:49
+11618,"Airport Code: 11618",156,186,03:05:34
+ASE,"Aspen-Pitkin County Airport",156,204,03:24:07
+LGB,"Long Beach Airport (Daugherty Field)",155,174,02:53:46
+ROC,"Greater Rochester International Airport",155,232,03:52:11
+FWA,"Fort Wayne International Airport",154,232,03:51:41
+SBN,"South Bend International Airport (South Bend Regional)",154,243,04:02:58
+FSD,"Sioux Falls Regional Airport",153,225,03:44:35
+MAF,"Midland International Airport",151,202,03:21:31
+LEX,"Blue Grass Airport",150,199,03:19:18
+ANC,"Ted Stevens Anchorage International Airport",149,220,03:39:38
+CAE,"Columbia Metropolitan Airport",149,209,03:28:30
+ALB,"Albany International Airport",141,212,03:32:13
+LFT,"Lafayette Regional Airport",139,218,03:38:13
+FAR,"Hector International Airport",137,214,03:33:47
+PNS,"Pensacola International Airport (Pensacola Gulf Coast Regional Airport)",133,218,03:38:22
+SYR,"Syracuse Hancock International Airport",133,215,03:34:43
+VPS,"Destin-Fort Walton Beach Airport/Eglin AFB",132,236,03:55:35
+PWM,"Portland International Jetport",131,201,03:21:05
+SBA,"Santa Barbara Municipal Airport (Santa Barbara Airport)",131,191,03:10:40
+PIA,"General Wayne A. Downing Peoria International Airport",130,209,03:28:54
+11259,"Airport Code: 11259",129,222,03:42:03
+GEG,"Spokane International Airport",129,256,04:15:54
+MHT,"Manchester-Boston Regional Airport",129,197,03:17:13
+GSP,"Greenville-Spartanburg International Airport",127,196,03:15:42
+12478,"Airport Code: 12478",125,205,03:25:28
+MYR,"Myrtle Beach International Airport",125,189,03:09:13
+TTN,"Trenton Mercer Airport",125,232,03:52:26
+CRP,"Corpus Christi International Airport",122,192,03:11:58
+GRK,"Killeen-Fort Hood Regional Airport",122,206,03:26:28
+STT,"Cyril E. King Airport",117,256,04:16:09
+CAK,"Akron-Canton Regional Airport",115,217,03:37:23
+11433,"Airport Code: 11433",112,198,03:17:34
+ACY,"Atlantic City International Airport",108,183,03:02:53
+EVV,"Evansville Regional Airport",108,219,03:38:32
+11697,"Airport Code: 11697",106,201,03:20:52
+10721,"Airport Code: 10721",105,191,03:11:13
+AEX,"Alexandria International Airport",104,240,04:00:06
+HSV,"Huntsville International Airport",104,223,03:43:21
+LBB,"Lubbock Preston Smith International Airport",102,217,03:36:43
+MOB,"Mobile Regional Airport",101,213,03:32:43
+CHA,"Chattanooga Metropolitan Airport (Lovell Field)",99,195,03:14:46
+13204,"Airport Code: 13204",97,214,03:33:34
+10821,"Airport Code: 10821",96,191,03:11:11
+AMA,"Rick Husband Amarillo International Airport",93,207,03:27:13
+BTV,"Burlington International Airport",92,211,03:30:52
+MLI,"Quad City International Airport",92,213,03:33:25
+GRB,"Green Bay-Austin Straubel International Airport",91,198,03:18:13
+14107,"Airport Code: 14107",90,187,03:06:33
+ISP,"Long Island MacArthur Airport",88,192,03:11:47
+MDT,"Harrisburg International Airport",88,235,03:55:01
+MFE,"McAllen-Miller International Airport (McAllen Miller International)",85,239,03:59:14
+JNU,"Juneau International Airport",84,216,03:35:34
+KOA,"Kona International Airport at Keahole",84,227,03:47:24
+13487,"Airport Code: 13487",83,189,03:08:43
+BMI,"Central Illinois Regional Airport at Bloomington-Normal",83,219,03:38:32
+JAC,"Jackson Hole Airport",83,251,04:11:19
+CHO,"Charlottesville-Albemarle Airport",82,223,03:42:36
+11057,"Airport Code: 11057",81,189,03:09:23
+EUG,"Eugene Airport (Mahlon Sweet Field)",79,211,03:30:37
+FNT,"Bishop International Airport",79,213,03:33:10
+MLU,"Monroe Regional Airport",79,211,03:31:05
+SRQ,"Sarasota-Bradenton International Airport",79,219,03:38:34
+10423,"Airport Code: 10423",78,241,04:01:04
+LIH,"Lihue Airport",78,249,04:09:18
+11278,"Airport Code: 11278",77,216,03:35:44
+13303,"Airport Code: 13303",77,185,03:05:15
+AVL,"Asheville Regional Airport",77,225,03:44:44
+CRW,"Yeager Airport",77,205,03:25:18
+ROA,"Roanoke Regional Airport (Woodrum Field)",77,205,03:24:39
+14100,"Airport Code: 14100",76,194,03:13:31
+CMI,"University of Illinois - Willard Airport",74,205,03:24:38
+MGM,"Montgomery Regional Airport",74,206,03:25:54
+ECP,"Northwest Florida Beaches International Airport",73,222,03:41:48
+BIS,"Bismarck Municipal Airport",71,258,04:18:24
+TLH,"Tallahassee International Airport",71,206,03:26:03
+BFL,"Meadows Field",69,184,03:04:02
+12191,"Airport Code: 12191",68,185,03:04:38
+AGS,"Augusta Regional Airport (Bush Field)",68,196,03:16:06
+GNV,"Gainesville Regional Airport",67,206,03:26:01
+GPT,"Gulfport-Biloxi International Airport",66,208,03:27:48
+TYR,"Tyler Pounds Regional Airport",64,212,03:32:12
+MFR,"Rogue Valley International Airport",63,205,03:25:12
+MRY,"Monterey Regional Airport (Monterey Peninsula Airport)",63,241,04:00:57
+14679,"Airport Code: 14679",62,201,03:20:36
+14747,"Airport Code: 14747",62,229,03:49:01
+RAP,"Rapid City Regional Airport",62,206,03:25:46
+10693,"Airport Code: 10693",61,201,03:21:23
+ABE,"Lehigh Valley International Airport",61,218,03:37:34
+RST,"Rochester International Airport",61,184,03:04:23
+SBP,"San Luis Obispo County Regional Airport (McChesney Field)",61,190,03:10:30
+BZN,"Bozeman Yellowstone International Airport (Gallatin Field Airport)",60,256,04:15:52
+15304,"Airport Code: 15304",59,204,03:23:49
+LNK,"Lincoln Airport (Lincoln Municipal)",59,232,03:51:59
+TVC,"Cherry Capital Airport",59,217,03:37:04
+13495,"Airport Code: 13495",57,228,03:47:45
+ABI,"Abilene Regional Airport",54,210,03:30:27
+FSM,"Fort Smith Regional Airport",54,214,03:33:32
+GJT,"Grand Junction Regional Airport (Walker Field)",54,221,03:40:44
+COU,"Columbia Regional Airport",53,252,04:11:38
+ATW,"Appleton International Airport",52,226,03:46:00
+DLH,"Duluth International Airport",52,196,03:16:17
+ISN,"Sloulin Field International Airport",51,268,04:27:33
+BRO,"Brownsville/South Padre Island International Airport",50,236,03:55:56
+LAN,"Capital Region International Airport ( Lansing Capital City)",50,239,03:58:50
+LRD,"Laredo International Airport",50,217,03:36:34
+MBS,"MBS International Airport",48,221,03:41:28
+SPI,"Abraham Lincoln Capital Airport",48,240,03:59:36
+EGE,"Eagle County Regional Airport",47,297,04:57:26
+ACT,"Waco Regional Airport",46,216,03:35:38
+ELM,"Elmira/Corning Regional Airport",46,198,03:18:16
+TRI,"Tri-Cities Regional Airport",46,183,03:03:10
+EYW,"Key West International Airport",45,237,03:57:19
+KTN,"Ketchikan International Airport",45,183,03:03:04
+BPT,"Jack Brooks Regional Airport (Southeast Texas Regional)",44,249,04:08:40
+DRO,"Durango-La Plata County Airport",44,216,03:36:11
+11042,"Airport Code: 11042",43,195,03:14:33
+RDM,"Redmond Municipal Airport (Roberts Field)",43,246,04:06:10
+ACV,"Arcata Airport",42,180,03:00:26
+AZO,"Kalamazoo/Battle Creek International Airport",42,184,03:03:53
+ILM,"Wilmington International Airport",42,221,03:40:46
+LBE,"Arnold Palmer Regional Airport",42,177,02:57:00
+MHK,"Manhattan Regional Airport",42,192,03:12:17
+PHF,"Newport News/Williamsburg International Airport",42,191,03:11:00
+14683,"Airport Code: 14683",41,247,04:06:38
+14869,"Airport Code: 14869",41,209,03:29:10
+FAY,"Fayetteville Regional Airport",41,237,03:57:22
+OAJ,"Albert J. Ellis Airport",41,225,03:44:38
+CLL,"Easterwood Airport",40,235,03:55:17
+CWA,"Central Wisconsin Airport",40,195,03:14:56
+HRL,"Valley International Airport",40,179,02:59:11
+AVP,"Wilkes-Barre/Scranton International Airport",39,235,03:55:00
+LAW,"Lawton-Fort Sill Regional Airport",37,234,03:54:05
+SJT,"San Angelo Regional Airport (Mathis Field)",37,222,03:42:10
+MOT,"Minot International Airport",36,304,05:03:30
+SAF,"Santa Fe Municipal Airport",36,267,04:26:53
+13232,"Airport Code: 13232",35,176,02:55:53
+15016,"Airport Code: 15016",35,190,03:09:33
+FAI,"Fairbanks International Airport",35,240,04:00:07
+14908,"Airport Code: 14908",34,199,03:19:04
+DHN,"Dothan Regional Airport",34,195,03:14:49
+FLG,"Flagstaff Pulliam Airport",34,206,03:25:58
+12264,"Airport Code: 12264",33,273,04:33:00
+LCH,"Lake Charles Regional Airport",33,238,03:58:11
+LSE,"La Crosse Regional Airport",33,252,04:11:36
+YUM,"Yuma International Airport",33,197,03:17:27
+11066,"Airport Code: 11066",32,260,04:19:43
+MEI,"Meridian Regional Airport",32,232,03:51:36
+MLB,"Melbourne International Airport",32,221,03:41:23
+14831,"Airport Code: 14831",31,213,03:33:17
+BIL,"Billings Logan International Airport",31,227,03:47:17
+PSC,"Tri-Cities Airport",31,236,03:56:21
+SCE,"University Park Airport",31,234,03:54:02
+SPS,"Wichita Falls Municipal Airport/Sheppard AFB",30,241,04:00:32
+14843,"Airport Code: 14843",29,212,03:31:48
+DBQ,"Dubuque Regional Airport",29,183,03:02:48
+HDN,"Yampa Valley Airport (Yampa Valley Regional)",28,199,03:19:09
+PLN,"Pellston Regional Airport of Emmet County",28,230,03:49:30
+13342,"Airport Code: 13342",27,177,02:57:29
+IDA,"Idaho Falls Regional Airport",27,202,03:21:53
+10994,"Airport Code: 10994",26,217,03:37:00
+12339,"Airport Code: 12339",26,207,03:27:12
+14893,"Airport Code: 14893",26,243,04:02:42
+ROW,"Roswell International Air Center",26,239,03:58:46
+14492,"Airport Code: 14492",25,195,03:15:02
+ACK,"Nantucket Memorial Airport",25,211,03:30:55
+ERI,"Erie International Airport",25,210,03:30:05
+13891,"Airport Code: 13891",24,169,02:48:35
+BQK,"Brunswick Golden Isles Airport",24,189,03:08:43
+DAB,"Daytona Beach International Airport",24,222,03:42:08
+GTF,"Great Falls International Airport",24,297,04:56:43
+VLD,"Valdosta Regional Airport",24,192,03:12:13
+10599,"Airport Code: 10599",23,238,03:57:42
+13198,"Airport Code: 13198",23,212,03:32:18
+14027,"Airport Code: 14027",23,182,03:01:44
+ABY,"Southwest Georgia Regional Airport",23,205,03:24:34
+BQN,"Rafael Hernández Airport",23,270,04:30:21
+FCA,"Glacier Park International Airport",23,229,03:49:13
+SGU,"St. George Regional Airport",23,245,04:05:05
+SUX,"Sioux Gateway Airport",23,224,03:43:50
+10713,"Airport Code: 10713",22,268,04:27:55
+13244,"Airport Code: 13244",22,170,02:49:55
+14057,"Airport Code: 14057",22,194,03:14:14
+14524,"Airport Code: 14524",22,180,02:59:33
+CPR,"Natrona County International Airport",22,185,03:04:35
+GTR,"Golden Triangle Regional Airport",22,216,03:35:52
+ITO,"Hilo International Airport",22,184,03:04:19
+RHI,"Rhinelander-Oneida County Airport",22,201,03:21:22
+12173,"Airport Code: 12173",21,318,05:18:11
+CSG,"Columbus Metropolitan Airport",21,179,02:59:06
+EAU,"Chippewa Valley Regional Airport",21,197,03:17:14
+GUC,"Gunnison-Crested Butte Regional Airport",21,193,03:13:00
+MTJ,"Montrose Regional Airport",21,199,03:18:34
+SUN,"Friedman Memorial Airport",21,170,02:49:54
+SWF,"Stewart International Airport",21,217,03:36:40
+15919,"Airport Code: 15919",20,189,03:09:27
+APN,"Alpena County Regional Airport",20,193,03:13:15
+JMS,"Jamestown Regional Airport",20,230,03:50:03
+MSO,"Missoula International Airport",20,209,03:29:00
+SMX,"Santa Maria Public Airport (Capt G. Allan Hancock Field)",20,234,03:53:45
+11540,"Airport Code: 11540",19,234,03:54:03
+ESC,"Delta County Airport",19,242,04:01:44
+GCK,"Garden City Regional Airport",19,242,04:01:51
+10792,"Airport Code: 10792",18,325,05:24:33
+14307,"Airport Code: 14307",18,212,03:32:13
+14689,"Airport Code: 14689",18,228,03:47:40
+ABR,"Aberdeen Regional Airport",18,340,05:39:47
+CMX,"Houghton County Memorial Airport",18,256,04:15:33
+GGG,"East Texas Regional Airport",18,205,03:25:03
+HOB,"Lea County Regional Airport",18,241,04:01:27
+JLN,"Joplin Regional Airport",18,224,03:44:07
+PAH,"Barkley Regional Airport",18,263,04:22:50
+PIB,"Hattiesburg-Laurel Regional Airport",18,236,03:56:10
+TOL,"Toledo Express Airport",18,207,03:27:23
+10140,"Airport Code: 10140",17,199,03:19:00
+13851,"Airport Code: 13851",17,263,04:22:49
+14122,"Airport Code: 14122",17,330,05:29:32
+15376,"Airport Code: 15376",17,173,02:53:11
+MKG,"Muskegon County Airport",17,201,03:21:11
+PSG,"Petersburg James A. Johnson Airport",17,186,03:06:28
+10781,"Airport Code: 10781",16,238,03:57:38
+11193,"Airport Code: 11193",16,188,03:08:04
+12896,"Airport Code: 12896",16,231,03:50:53
+INL,"Falls International Airport",16,240,04:00:00
+TXK,"Texarkana Regional Airport (Webb Field)",16,220,03:39:38
+WRG,"Wrangell Airport",16,172,02:51:38
+13830,"Airport Code: 13830",15,269,04:28:36
+BTM,"Bert Mooney Airport",15,202,03:22:20
+CIU,"Chippewa County International Airport",15,285,04:45:00
+SIT,"Sitka Rocky Gutierrez Airport",15,187,03:06:36
+11638,"Airport Code: 11638",14,249,04:09:00
+11884,"Airport Code: 11884",14,272,04:32:17
+12451,"Airport Code: 12451",14,216,03:35:39
+15370,"Airport Code: 15370",14,253,04:13:09
+HIB,"Range Regional Airport (Chisholm-Hibbing Airport)",14,252,04:11:51
+IMT,"Ford Airport",14,191,03:10:34
+RKS,"Rock Springs-Sweetwater County Airport",14,314,05:14:13
+STX,"Henry E. Rohlsen Airport",14,282,04:41:56
+11423,"Airport Code: 11423",13,226,03:45:42
+12992,"Airport Code: 12992",13,254,04:14:18
+13796,"Airport Code: 13796",13,206,03:25:46
+13871,"Airport Code: 13871",13,185,03:05:28
+14262,"Airport Code: 14262",13,299,04:59:09
+14635,"Airport Code: 14635",13,195,03:14:37
+ALO,"Waterloo Regional Airport",13,181,03:00:51
+DIK,"Dickinson Theodore Roosevelt Regional Airport",13,322,05:21:46
+GRI,"Central Nebraska Regional Airport",13,257,04:16:32
+HLN,"Helena Regional Airport",13,296,04:55:55
+IAG,"Niagara Falls International Airport",13,146,02:26:05
+MVY,"Martha's Vineyard Airport",13,213,03:32:46
+OTH,"Southwest Oregon Regional Airport (North Bend Municipal)",13,197,03:17:18
+RDD,"Redding Municipal Airport",13,204,03:24:23
+11140,"Airport Code: 11140",12,279,04:39:25
+13158,"Airport Code: 13158",12,319,05:19:05
+14576,"Airport Code: 14576",12,271,04:30:50
+15412,"Airport Code: 15412",12,209,03:28:50
+COD,"Yellowstone Regional Airport",12,219,03:38:30
+GFK,"Grand Forks International Airport",12,206,03:25:50
+ORH,"Worcester Regional Airport",12,197,03:16:50
+11109,"Airport Code: 11109",11,300,05:00:16
+12197,"Airport Code: 12197",11,253,04:13:27
+13296,"Airport Code: 13296",11,260,04:19:44
+14570,"Airport Code: 14570",11,205,03:25:22
+14685,"Airport Code: 14685",11,236,03:55:55
+14696,"Airport Code: 14696",11,242,04:02:27
+14814,"Airport Code: 14814",11,234,03:54:22
+BET,"Bethel Airport",11,186,03:06:16
+BJI,"Bemidji Regional Airport",11,345,05:45:00
+BRW,"Wiley Post-Will Rogers Memorial Airport",11,184,03:04:16
+CLD,"McClellan-Palomar Airport",11,169,02:48:49
+DVL,"Devils Lake Regional Airport",11,195,03:15:00
+EWN,"Coastal Carolina Regional Airport (Craven County Regional)",11,215,03:35:16
+HYS,"Hays Regional Airport",11,153,02:33:22
+MQT,"Sawyer International Airport",11,204,03:24:22
+OME,"Nome Airport",11,180,03:00:22
+10529,"Airport Code: 10529",10,211,03:31:18
+10800,"Airport Code: 10800",10,158,02:37:42
+11267,"Airport Code: 11267",10,182,03:02:12
+11921,"Airport Code: 11921",10,249,04:08:54
+13485,"Airport Code: 13485",10,304,05:03:48
+CEC,"Del Norte County Airport (Jack McNamara Field)",10,183,03:02:36
+OTZ,"Ralph Wien Memorial Airport",10,199,03:19:06
+SCC,"Deadhorse Airport (Prudhoe Bay Airport)",10,181,03:01:24
+10299,"Airport Code: 10299",9,213,03:33:13
+10785,"Airport Code: 10785",9,184,03:03:33
+11612,"Airport Code: 11612",9,378,06:18:20
+12951,"Airport Code: 12951",9,237,03:57:20
+13422,"Airport Code: 13422",9,239,03:58:47
+13931,"Airport Code: 13931",9,179,02:59:13
+14321,"Airport Code: 14321",9,231,03:50:40
+14986,"Airport Code: 14986",9,244,04:04:00
+BGM,"Greater Binghamton Airport",9,324,05:24:00
+BGR,"Bangor International Airport",9,251,04:11:27
+BLI,"Bellingham International Airport",9,227,03:46:47
+CDC,"Cedar City Regional Airport",9,250,04:10:20
+GCC,"Gillette-Campbell County Airport",9,182,03:02:27
+ILG,"Wilmington Airport",9,191,03:11:00
+LAR,"Laramie Regional Airport",9,200,03:20:20
+PBG,"Plattsburgh International Airport",9,163,02:43:00
+PSE,"Mercedita Airport",9,183,03:02:40
+10431,"Airport Code: 10431",8,195,03:15:15
+10868,"Airport Code: 10868",8,275,04:34:38
+11982,"Airport Code: 11982",8,237,03:56:53
+11995,"Airport Code: 11995",8,221,03:41:23
+12954,"Airport Code: 12954",8,167,02:46:38
+14457,"Airport Code: 14457",8,178,02:57:45
+PIH,"Pocatello Regional Airport",8,389,06:29:08
+TWF,"Magic Valley Regional Airport (Joslin Field)",8,193,03:13:15
+10135,"Airport Code: 10135",7,213,03:32:34
+10185,"Airport Code: 10185",7,149,02:29:17
+11003,"Airport Code: 11003",7,260,04:20:26
+11775,"Airport Code: 11775",7,267,04:27:00
+11996,"Airport Code: 11996",7,149,02:29:26
+12391,"Airport Code: 12391",7,237,03:57:17
+12448,"Airport Code: 12448",7,151,02:31:26
+12523,"Airport Code: 12523",7,169,02:48:43
+13377,"Airport Code: 13377",7,205,03:25:17
+14108,"Airport Code: 14108",7,190,03:10:17
+14698,"Airport Code: 14698",7,154,02:33:51
+15096,"Airport Code: 15096",7,372,06:12:00
+BRD,"Brainerd Lakes Regional Airport",7,252,04:11:43
+CDV,"Merle K. (Mudhole) Smith Airport",7,192,03:12:00
+10157,"Airport Code: 10157",6,173,02:53:10
+10874,"Airport Code: 10874",6,286,04:45:40
+10980,"Airport Code: 10980",6,219,03:38:40
+11481,"Airport Code: 11481",6,206,03:25:30
+11603,"Airport Code: 11603",6,183,03:03:00
+11637,"Airport Code: 11637",6,319,05:18:40
+12217,"Airport Code: 12217",6,192,03:11:40
+13277,"Airport Code: 13277",6,186,03:06:20
+13577,"Airport Code: 13577",6,199,03:19:00
+14193,"Airport Code: 14193",6,208,03:28:10
+14783,"Airport Code: 14783",6,188,03:07:30
+YAK,"Yakutat Airport",6,176,02:55:40
+10279,"Airport Code: 10279",5,197,03:17:24
+10747,"Airport Code: 10747",5,227,03:46:48
+11146,"Airport Code: 11146",5,155,02:35:24
+11953,"Airport Code: 11953",5,149,02:28:48
+11973,"Airport Code: 11973",5,288,04:48:00
+11977,"Airport Code: 11977",5,192,03:11:48
+12129,"Airport Code: 12129",5,259,04:19:00
+12758,"Airport Code: 12758",5,318,05:18:24
+13061,"Airport Code: 13061",5,214,03:33:48
+15024,"Airport Code: 15024",5,235,03:55:00
+15411,"Airport Code: 15411",5,245,04:04:36
+15624,"Airport Code: 15624",5,218,03:38:12
+HYA,"Barnstable Municipal Airport",5,240,03:59:36
+UST,"Northeast Florida Regional Airport (St. Augustine Airport)",5,188,03:08:24
+10136,"Airport Code: 10136",4,193,03:12:45
+10257,"Airport Code: 10257",4,163,02:43:15
+10990,"Airport Code: 10990",4,200,03:20:00
+11049,"Airport Code: 11049",4,153,02:33:00
+11413,"Airport Code: 11413",4,517,08:37:00
+11695,"Airport Code: 11695",4,205,03:25:15
+11823,"Airport Code: 11823",4,198,03:17:30
+11986,"Airport Code: 11986",4,202,03:22:00
+12206,"Airport Code: 12206",4,232,03:52:00
+12278,"Airport Code: 12278",4,341,05:41:15
+12945,"Airport Code: 12945",4,205,03:24:30
+12982,"Airport Code: 12982",4,164,02:43:45
+13256,"Airport Code: 13256",4,208,03:27:30
+13795,"Airport Code: 13795",4,175,02:54:45
+14674,"Airport Code: 14674",4,251,04:10:45
+15323,"Airport Code: 15323",4,252,04:12:15
+GUM,"Guam International Airport",4,528,08:48:15
+STC,"St. Cloud Regional Airport",4,202,03:22:15
+10154,"Airport Code: 10154",3,175,02:54:40
+10208,"Airport Code: 10208",3,134,02:14:00
+10434,"Airport Code: 10434",3,226,03:46:00
+10561,"Airport Code: 10561",3,187,03:07:00
+10685,"Airport Code: 10685",3,183,03:03:20
+10732,"Airport Code: 10732",3,130,02:10:20
+11308,"Airport Code: 11308",3,242,04:02:00
+11865,"Airport Code: 11865",3,276,04:35:40
+12280,"Airport Code: 12280",3,303,05:03:00
+12389,"Airport Code: 12389",3,374,06:14:00
+12819,"Airport Code: 12819",3,136,02:15:40
+12898,"Airport Code: 12898",3,277,04:37:20
+13076,"Airport Code: 13076",3,595,09:55:00
+13241,"Airport Code: 13241",3,369,06:09:00
+13264,"Airport Code: 13264",3,313,05:12:40
+13476,"Airport Code: 13476",3,171,02:51:20
+13964,"Airport Code: 13964",3,217,03:37:00
+14487,"Airport Code: 14487",3,264,04:23:40
+14633,"Airport Code: 14633",3,334,05:34:20
+14842,"Airport Code: 14842",3,244,04:04:00
+15380,"Airport Code: 15380",3,158,02:38:00
+15401,"Airport Code: 15401",3,241,04:01:00
+15607,"Airport Code: 15607",3,145,02:25:00
+EKO,"Elko Regional Airport",3,389,06:28:40
+GST,"Gustavus Airport",3,155,02:34:40
+LWS,"Lewiston-Nez Perce County Airport",3,217,03:36:40
+MMH,"Mammoth Yosemite Airport",3,149,02:29:00
+PPG,"Pago Pago International Airport (Tafuna Airport)",3,466,07:46:00
+PUB,"Pueblo Memorial Airport",3,204,03:24:00
+VEL,"Valdez Airport",3,391,06:31:00
+10146,"Airport Code: 10146",2,274,04:33:30
+10372,"Airport Code: 10372",2,156,02:35:30
+10408,"Airport Code: 10408",2,242,04:02:00
+10577,"Airport Code: 10577",2,189,03:09:00
+10581,"Airport Code: 10581",2,258,04:17:30
+10627,"Airport Code: 10627",2,297,04:56:30
+10731,"Airport Code: 10731",2,168,02:48:00
+10754,"Airport Code: 10754",2,185,03:04:30
+11111,"Airport Code: 11111",2,505,08:24:30
+11150,"Airport Code: 11150",2,172,02:52:00
+11337,"Airport Code: 11337",2,242,04:02:00
+11537,"Airport Code: 11537",2,211,03:30:30
+11587,"Airport Code: 11587",2,326,05:26:00
+11641,"Airport Code: 11641",2,326,05:25:30
+11778,"Airport Code: 11778",2,201,03:20:30
+11905,"Airport Code: 11905",2,280,04:40:00
+12003,"Airport Code: 12003",2,253,04:12:30
+12343,"Airport Code: 12343",2,298,04:58:00
+12402,"Airport Code: 12402",2,392,06:31:30
+12891,"Airport Code: 12891",2,489,08:09:00
+13230,"Airport Code: 13230",2,208,03:28:00
+13360,"Airport Code: 13360",2,259,04:19:00
+13367,"Airport Code: 13367",2,156,02:35:30
+13433,"Airport Code: 13433",2,263,04:22:30
+14098,"Airport Code: 14098",2,217,03:36:30
+14252,"Airport Code: 14252",2,293,04:52:30
+14709,"Airport Code: 14709",2,178,02:57:30
+14730,"Airport Code: 14730",2,323,05:22:30
+14794,"Airport Code: 14794",2,236,03:55:30
+15027,"Airport Code: 15027",2,317,05:16:30
+15249,"Airport Code: 15249",2,173,02:53:00
+15356,"Airport Code: 15356",2,132,02:11:30
+15991,"Airport Code: 15991",2,201,03:20:30
+ADQ,"Kodiak Airport",2,402,06:42:00
+WYS,"Westerly State Airport",2,184,03:03:30
+10155,"Airport Code: 10155",1,131,02:11:00
+10158,"Airport Code: 10158",1,219,03:39:00
+10333,"Airport Code: 10333",1,139,02:19:00
+10469,"Airport Code: 10469",1,203,03:23:00
+10631,"Airport Code: 10631",1,157,02:37:00
+10728,"Airport Code: 10728",1,173,02:53:00
+10739,"Airport Code: 10739",1,429,07:09:00
+10849,"Airport Code: 10849",1,164,02:44:00
+10926,"Airport Code: 10926",1,137,02:17:00
+11013,"Airport Code: 11013",1,122,02:02:00
+11067,"Airport Code: 11067",1,595,09:55:00
+11203,"Airport Code: 11203",1,174,02:54:00
+11274,"Airport Code: 11274",1,247,04:07:00
+11315,"Airport Code: 11315",1,583,09:43:00
+11471,"Airport Code: 11471",1,638,10:38:00
+11525,"Airport Code: 11525",1,125,02:05:00
+11617,"Airport Code: 11617",1,201,03:21:00
+11630,"Airport Code: 11630",1,308,05:08:00
+11721,"Airport Code: 11721",1,222,03:42:00
+11867,"Airport Code: 11867",1,152,02:32:00
+12156,"Airport Code: 12156",1,440,07:20:00
+12177,"Airport Code: 12177",1,161,02:41:00
+12323,"Airport Code: 12323",1,204,03:24:00
+12441,"Airport Code: 12441",1,218,03:38:00
+12888,"Airport Code: 12888",1,121,02:01:00
+12915,"Airport Code: 12915",1,517,08:37:00
+13029,"Airport Code: 13029",1,206,03:26:00
+13184,"Airport Code: 13184",1,306,05:06:00
+13290,"Airport Code: 13290",1,191,03:11:00
+13486,"Airport Code: 13486",1,348,05:48:00
+13873,"Airport Code: 13873",1,388,06:28:00
+13933,"Airport Code: 13933",1,150,02:30:00
+13970,"Airport Code: 13970",1,133,02:13:00
+14109,"Airport Code: 14109",1,217,03:37:00
+14150,"Airport Code: 14150",1,153,02:33:00
+14222,"Airport Code: 14222",1,767,12:47:00
+14254,"Airport Code: 14254",1,137,02:17:00
+14256,"Airport Code: 14256",1,158,02:38:00
+14489,"Airport Code: 14489",1,154,02:34:00
+14574,"Airport Code: 14574",1,286,04:46:00
+14588,"Airport Code: 14588",1,139,02:19:00
+14905,"Airport Code: 14905",1,136,02:16:00
+14952,"Airport Code: 14952",1,526,08:46:00
+14960,"Airport Code: 14960",1,740,12:20:00
+15041,"Airport Code: 15041",1,232,03:52:00
+15295,"Airport Code: 15295",1,124,02:04:00
+15389,"Airport Code: 15389",1,169,02:49:00
+15841,"Airport Code: 15841",1,136,02:16:00
+16218,"Airport Code: 16218",1,248,04:08:00
+ITH,"Ithaca Tompkins Regional Airport",1,204,03:24:00

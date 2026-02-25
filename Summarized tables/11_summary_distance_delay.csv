@@ -1,0 +1,5 @@
+distance_bucket,total_flights,avg_arrival_delay_mins,avg_arrival_delay_time
+"Short-haul (<500)",2077523,5,00:05:09
+"Medium-haul (500–999)",2022005,5,00:04:38
+"Long-haul (1000–1999)",1258636,4,00:03:45
+"Ultra-long (2000+)",371031,1,00:01:04

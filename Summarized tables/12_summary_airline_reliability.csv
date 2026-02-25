@@ -1,0 +1,15 @@
+airline_code,airline_name,total_flights,operated_flights,cancelled_flights,cancellation_pct,ontime_flights,ontime_pct,avg_arrival_delay_mins,avg_arrival_delay_time,avg_depature_delay_mins,avg_depature_delay_time,reliability_score,reliability_rank
+WN,"Southwest Airlines Co.",1261855,1245812,16043,1.27,1009186,81.01,4,00:04:22,11,00:10:34,2.51,6
+AA,"American Airlines Inc.",725984,715065,10919,1.50,584786,81.78,3,00:03:26,9,00:08:52,2.28,4
+AS,"Alaska Airlines Inc.",172521,171852,669,0.39,149500,86.99,-1,-00:00:58,2,00:01:47,-0.16,1
+US,"US Airways Inc.",198715,194648,4067,2.05,158099,81.22,4,00:03:42,6,00:06:07,2.71,7
+DL,"Delta Air Lines Inc.",875881,872057,3824,0.44,754034,86.47,0,00:00:11,7,00:07:21,0.34,2
+NK,"Spirit Air Lines",117379,115375,2004,1.71,81154,70.34,14,00:14:27,16,00:15:55,6.80,14
+EV,"Atlantic Southeast Airlines",571977,556746,15231,2.66,447562,80.39,7,00:06:34,9,00:08:40,4.22,11
+F9,"Frontier Airlines Inc.",90836,90248,588,0.65,66678,73.88,12,00:12:29,13,00:13:19,5.38,12
+UA,"United Air Lines Inc.",515723,509150,6573,1.27,404428,79.43,5,00:05:25,14,00:14:23,2.93,8
+MQ,"American Eagle Airlines Inc.",294632,279607,15025,5.10,219060,78.35,6,00:06:26,10,00:10:01,5.64,13
+OO,"Skywest Airlines Inc.",588353,578393,9960,1.69,470598,81.36,6,00:05:50,8,00:07:46,3.35,9
+B6,"JetBlue Airways",267048,262772,4276,1.60,203597,77.48,7,00:06:40,11,00:11:30,3.62,10
+VX,"Virgin America",61903,61369,534,0.86,49591,80.81,5,00:04:44,9,00:09:00,2.41,5
+HA,"Hawaiian Airlines Inc.",76272,76101,171,0.22,67483,88.68,2,00:02:01,0,00:00:29,0.94,3

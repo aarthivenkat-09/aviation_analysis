@@ -1,0 +1,163 @@
+airline_code,airline_name,month,total_flights,operated_flights,cancelled_flights,ontime_flights,avg_arrival_delay_mins_int,avg_arrival_delay_time
+AA,"American Airlines Inc.",1,44059,43159,900,33630,7,00:06:57
+AA,"American Airlines Inc.",2,39835,37281,2554,29356,8,00:07:31
+AA,"American Airlines Inc.",3,45966,44538,1428,34773,7,00:06:41
+AA,"American Airlines Inc.",4,44770,44416,354,35682,5,00:04:54
+AA,"American Airlines Inc.",5,44710,43826,884,35209,5,00:05:09
+AA,"American Airlines Inc.",6,44360,43821,539,34014,8,00:08:09
+AA,"American Airlines Inc.",7,81434,80872,562,65392,4,00:03:52
+AA,"American Airlines Inc.",8,79748,78958,790,64510,3,00:03:11
+AA,"American Airlines Inc.",9,73379,73026,353,62952,-1,-00:01:26
+AA,"American Airlines Inc.",10,77290,76565,725,66386,-1,-00:00:35
+AA,"American Airlines Inc.",11,73871,73319,552,62015,1,00:00:46
+AA,"American Airlines Inc.",12,76562,75284,1278,60867,4,00:04:08
+AS,"Alaska Airlines Inc.",1,13257,13193,64,11254,0,-00:00:19
+AS,"Alaska Airlines Inc.",2,12194,12081,113,10429,-1,-00:00:47
+AS,"Alaska Airlines Inc.",3,14276,14237,39,12267,-1,-00:00:33
+AS,"Alaska Airlines Inc.",4,13974,13909,65,12502,-3,-00:03:00
+AS,"Alaska Airlines Inc.",5,14682,14637,45,12955,-2,-00:01:43
+AS,"Alaska Airlines Inc.",6,15075,15015,60,13212,0,-00:00:13
+AS,"Alaska Airlines Inc.",7,15821,15772,49,13705,0,00:00:23
+AS,"Alaska Airlines Inc.",8,16095,16059,36,13374,2,00:02:30
+AS,"Alaska Airlines Inc.",9,14271,14245,26,12678,-2,-00:01:49
+AS,"Alaska Airlines Inc.",10,14467,14434,33,12786,-3,-00:02:59
+AS,"Alaska Airlines Inc.",11,13950,13904,46,11954,-2,-00:01:55
+AS,"Alaska Airlines Inc.",12,14459,14366,93,12384,-2,-00:01:50
+B6,"JetBlue Airways",1,21623,20521,1102,15577,7,00:07:20
+B6,"JetBlue Airways",2,19751,18455,1296,11873,19,00:18:35
+B6,"JetBlue Airways",3,22590,22132,458,16267,11,00:10:41
+B6,"JetBlue Airways",4,22020,21881,139,17768,3,00:02:46
+B6,"JetBlue Airways",5,22565,22393,172,19071,-1,-00:00:42
+B6,"JetBlue Airways",6,22558,22327,231,17705,5,00:05:02
+B6,"JetBlue Airways",7,24029,23804,225,18446,6,00:05:50
+B6,"JetBlue Airways",8,23826,23571,255,17695,9,00:09:15
+B6,"JetBlue Airways",9,21133,21043,90,16932,4,00:03:32
+B6,"JetBlue Airways",10,21913,21783,130,17768,4,00:03:40
+B6,"JetBlue Airways",11,21697,21585,112,18050,1,00:01:25
+B6,"JetBlue Airways",12,23343,23277,66,16445,14,00:13:48
+DL,"Delta Air Lines Inc.",1,64421,63743,678,55557,-2,-00:02:03
+DL,"Delta Air Lines Inc.",2,60884,59188,1696,47602,6,00:05:36
+DL,"Delta Air Lines Inc.",3,74166,73642,524,62411,2,00:02:04
+DL,"Delta Air Lines Inc.",4,72170,72023,147,62804,0,00:00:05
+DL,"Delta Air Lines Inc.",5,74815,74672,143,65408,0,00:00:09
+DL,"Delta Air Lines Inc.",6,77255,77016,239,63721,4,00:04:24
+DL,"Delta Air Lines Inc.",7,80741,80635,106,68265,1,00:01:12
+DL,"Delta Air Lines Inc.",8,80947,80878,69,69386,1,00:00:39
+DL,"Delta Air Lines Inc.",9,72063,72057,6,65345,-4,-00:03:42
+DL,"Delta Air Lines Inc.",10,75552,75535,17,69654,-5,-00:05:00
+DL,"Delta Air Lines Inc.",11,72228,72214,14,64695,-3,-00:03:10
+DL,"Delta Air Lines Inc.",12,70639,70454,185,59186,2,00:02:30
+EV,"Atlantic Southeast Airlines",1,49925,48223,1702,37232,9,00:08:31
+EV,"Atlantic Southeast Airlines",2,45138,42136,3002,31594,10,00:10:23
+EV,"Atlantic Southeast Airlines",3,54190,52055,2135,41463,7,00:06:42
+EV,"Atlantic Southeast Airlines",4,49296,48367,929,39765,5,00:04:48
+EV,"Atlantic Southeast Airlines",5,49213,48172,1041,38444,8,00:07:41
+EV,"Atlantic Southeast Airlines",6,49119,47377,1742,34873,14,00:13:53
+EV,"Atlantic Southeast Airlines",7,50381,49472,909,39820,7,00:06:54
+EV,"Atlantic Southeast Airlines",8,48554,47826,728,39382,5,00:05:08
+EV,"Atlantic Southeast Airlines",9,43721,43455,266,37595,1,00:00:51
+EV,"Atlantic Southeast Airlines",10,45728,45251,477,38544,2,00:02:18
+EV,"Atlantic Southeast Airlines",11,42572,41789,783,34528,4,00:04:24
+EV,"Atlantic Southeast Airlines",12,44140,42623,1517,34322,7,00:06:39
+F9,"Frontier Airlines Inc.",1,6829,6740,89,4589,18,00:18:21
+F9,"Frontier Airlines Inc.",2,5809,5701,108,3427,27,00:27:23
+F9,"Frontier Airlines Inc.",3,6950,6889,61,4539,20,00:20:03
+F9,"Frontier Airlines Inc.",4,7148,7110,38,5202,13,00:12:37
+F9,"Frontier Airlines Inc.",5,8118,8093,25,5955,13,00:12:59
+F9,"Frontier Airlines Inc.",6,7893,7839,54,5363,20,00:19:39
+F9,"Frontier Airlines Inc.",7,8090,8057,33,5793,14,00:14:26
+F9,"Frontier Airlines Inc.",8,8142,8116,26,6287,9,00:09:10
+F9,"Frontier Airlines Inc.",9,7873,7852,21,6758,1,00:00:59
+F9,"Frontier Airlines Inc.",10,8101,8089,12,6902,0,00:00:05
+F9,"Frontier Airlines Inc.",11,7763,7727,36,5757,11,00:11:09
+F9,"Frontier Airlines Inc.",12,8120,8035,85,6106,9,00:09:20
+HA,"Hawaiian Airlines Inc.",1,6440,6414,26,5513,4,00:03:31
+HA,"Hawaiian Airlines Inc.",2,5779,5776,3,4755,6,00:06:02
+HA,"Hawaiian Airlines Inc.",3,6313,6300,13,5520,3,00:03:28
+HA,"Hawaiian Airlines Inc.",4,6093,6082,11,5651,0,00:00:01
+HA,"Hawaiian Airlines Inc.",5,6434,6427,7,5855,1,00:00:50
+HA,"Hawaiian Airlines Inc.",6,6677,6667,10,6050,1,00:00:53
+HA,"Hawaiian Airlines Inc.",7,6955,6944,11,6169,2,00:02:00
+HA,"Hawaiian Airlines Inc.",8,6901,6857,44,5633,7,00:07:26
+HA,"Hawaiian Airlines Inc.",9,6154,6130,24,5183,4,00:03:42
+HA,"Hawaiian Airlines Inc.",10,6242,6230,12,5668,0,00:00:28
+HA,"Hawaiian Airlines Inc.",11,6024,6019,5,5665,-3,-00:02:43
+HA,"Hawaiian Airlines Inc.",12,6260,6255,5,5821,-2,-00:01:42
+MQ,"American Eagle Airlines Inc.",1,29900,27612,2288,18115,18,00:18:08
+MQ,"American Eagle Airlines Inc.",2,26940,23053,3887,14428,21,00:21:15
+MQ,"American Eagle Airlines Inc.",3,28146,26115,2031,19137,11,00:11:00
+MQ,"American Eagle Airlines Inc.",4,25695,24837,858,19888,5,00:05:07
+MQ,"American Eagle Airlines Inc.",5,25431,24484,947,19682,5,00:05:27
+MQ,"American Eagle Airlines Inc.",6,25407,24081,1326,17925,10,00:09:36
+MQ,"American Eagle Airlines Inc.",7,24750,24116,634,19532,4,00:03:58
+MQ,"American Eagle Airlines Inc.",8,23881,23178,703,19278,2,00:01:53
+MQ,"American Eagle Airlines Inc.",9,21202,20834,368,17991,-2,-00:02:10
+MQ,"American Eagle Airlines Inc.",10,21982,21709,273,19421,-4,-00:03:44
+MQ,"American Eagle Airlines Inc.",11,20305,19400,905,16694,0,00:00:13
+MQ,"American Eagle Airlines Inc.",12,20993,20188,805,16969,1,00:00:40
+NK,"Spirit Air Lines",1,8743,8645,98,6299,11,00:11:23
+NK,"Spirit Air Lines",2,8089,7823,266,5257,16,00:16:27
+NK,"Spirit Air Lines",3,9400,9261,139,6956,10,00:10:02
+NK,"Spirit Air Lines",4,9496,9432,64,7111,9,00:08:45
+NK,"Spirit Air Lines",5,10051,9826,225,6178,22,00:22:20
+NK,"Spirit Air Lines",6,9826,9347,479,4928,35,00:35:29
+NK,"Spirit Air Lines",7,10351,10220,131,7127,14,00:14:20
+NK,"Spirit Air Lines",8,10432,10246,186,6659,20,00:20:29
+NK,"Spirit Air Lines",9,9948,9880,68,7645,8,00:07:59
+NK,"Spirit Air Lines",10,10208,10147,61,7980,7,00:06:48
+NK,"Spirit Air Lines",11,10164,10059,105,7662,8,00:07:32
+NK,"Spirit Air Lines",12,10671,10489,182,7352,13,00:12:43
+OO,"Skywest Airlines Inc.",1,48114,46852,1262,35497,11,00:10:51
+OO,"Skywest Airlines Inc.",2,43989,42586,1403,32708,10,00:09:33
+OO,"Skywest Airlines Inc.",3,50078,49534,544,41409,3,00:03:11
+OO,"Skywest Airlines Inc.",4,49329,48615,714,41125,3,00:03:13
+OO,"Skywest Airlines Inc.",5,49864,49245,619,41051,4,00:04:08
+OO,"Skywest Airlines Inc.",6,50307,49199,1108,39012,8,00:08:19
+OO,"Skywest Airlines Inc.",7,52627,51806,821,41577,7,00:06:46
+OO,"Skywest Airlines Inc.",8,52730,51936,794,42217,6,00:05:35
+OO,"Skywest Airlines Inc.",9,47625,47273,352,40703,2,00:01:32
+OO,"Skywest Airlines Inc.",10,48808,48567,241,41923,2,00:01:45
+OO,"Skywest Airlines Inc.",11,47292,46585,707,38461,5,00:04:55
+OO,"Skywest Airlines Inc.",12,47590,46195,1395,34915,11,00:10:54
+UA,"United Air Lines Inc.",1,38395,37428,967,29027,6,00:06:21
+UA,"United Air Lines Inc.",2,36235,35229,1006,26738,7,00:07:15
+UA,"United Air Lines Inc.",3,43603,42962,641,34174,5,00:04:53
+UA,"United Air Lines Inc.",4,41342,40972,370,32926,4,00:04:22
+UA,"United Air Lines Inc.",5,44411,44063,348,34236,7,00:06:48
+UA,"United Air Lines Inc.",6,46084,44979,1105,30810,17,00:16:51
+UA,"United Air Lines Inc.",7,46478,46010,468,34317,10,00:10:14
+UA,"United Air Lines Inc.",8,45413,45072,341,35938,5,00:05:00
+UA,"United Air Lines Inc.",9,41778,41672,106,36093,-2,-00:01:47
+UA,"United Air Lines Inc.",10,45894,45766,128,40306,-2,-00:02:27
+UA,"United Air Lines Inc.",11,42647,42340,307,35900,0,00:00:17
+UA,"United Air Lines Inc.",12,43443,42657,786,33963,7,00:07:00
+US,"US Airways Inc.",1,33489,32530,959,26508,3,00:03:06
+US,"US Airways Inc.",2,30153,28579,1574,22005,7,00:07:06
+US,"US Airways Inc.",3,34516,33732,784,27393,3,00:03:19
+US,"US Airways Inc.",4,32496,32300,196,26564,3,00:02:39
+US,"US Airways Inc.",5,33761,33529,232,28602,1,00:00:41
+US,"US Airways Inc.",6,34300,33978,322,27027,6,00:05:45
+VX,"Virgin America",1,4731,4651,80,3895,1,00:01:25
+VX,"Virgin America",2,4223,4068,155,3229,8,00:07:45
+VX,"Virgin America",3,4873,4816,57,3865,5,00:05:20
+VX,"Virgin America",4,4915,4901,14,4109,1,00:01:00
+VX,"Virgin America",5,5236,5206,30,3990,7,00:07:05
+VX,"Virgin America",6,5260,5239,21,4247,6,00:05:46
+VX,"Virgin America",7,5411,5393,18,4167,7,00:07:07
+VX,"Virgin America",8,5688,5664,24,4591,5,00:05:06
+VX,"Virgin America",9,5154,5143,11,4456,0,00:00:04
+VX,"Virgin America",10,5464,5441,23,4558,2,00:02:15
+VX,"Virgin America",11,5414,5357,57,4532,0,00:00:07
+VX,"Virgin America",12,5534,5490,44,3952,13,00:13:27
+WN,"Southwest Airlines Co.",1,100042,98275,1767,79342,3,00:03:23
+WN,"Southwest Airlines Co.",2,90172,86718,3454,70094,3,00:03:30
+WN,"Southwest Airlines Co.",3,109245,107097,2148,87684,3,00:03:15
+WN,"Southwest Airlines Co.",4,106407,105786,621,87287,3,00:02:59
+WN,"Southwest Airlines Co.",5,107702,106726,976,85018,6,00:05:40
+WN,"Southwest Airlines Co.",6,109776,107892,1884,80148,11,00:10:42
+WN,"Southwest Airlines Co.",7,113650,112811,839,83975,10,00:10:28
+WN,"Southwest Airlines Co.",8,108179,107123,1056,86421,6,00:05:31
+WN,"Southwest Airlines Co.",9,100645,100261,384,88479,-1,-00:01:20
+WN,"Southwest Airlines Co.",10,104516,104194,322,91736,-1,-00:00:41
+WN,"Southwest Airlines Co.",11,104045,103075,970,86889,1,00:01:00
+WN,"Southwest Airlines Co.",12,107476,105854,1622,82113,7,00:06:42

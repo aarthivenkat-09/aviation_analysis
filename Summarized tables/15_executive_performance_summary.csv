@@ -1,0 +1,2 @@
+total_flights,operated_flights,ontime_performance_pct,avg_arrival_delay_mins_int,avg_arrival_delay_time,avg_departure_delay_mins_int,avg_departure_delay_time,cancellation_rate_pct,top_cancellation_reason,top_arrival_delay_reason
+5819079,5729195,81.44,4,00:04:24,9,00:09:20,1.54,"Technical issues","Late Aircraft Delay"

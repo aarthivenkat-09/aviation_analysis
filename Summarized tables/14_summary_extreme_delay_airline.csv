@@ -1,0 +1,15 @@
+airline_code,AIRLINE_NAME,extreme_delay_flights,avg_extreme_arrival_delay_mins,avg_arrival_delay_time
+WN,"Southwest Airlines Co.",19735,180,03:00:07
+UA,"United Air Lines Inc.",14066,197,03:17:20
+EV,"Atlantic Southeast Airlines",13942,195,03:15:02
+DL,"Delta Air Lines Inc.",13657,218,03:38:28
+AA,"American Airlines Inc.",13620,218,03:37:44
+OO,"Skywest Airlines Inc.",12001,198,03:18:07
+MQ,"American Eagle Airlines Inc.",7083,200,03:19:55
+B6,"JetBlue Airways",7016,186,03:06:30
+NK,"Spirit Air Lines",4371,185,03:05:11
+F9,"Frontier Airlines Inc.",3197,216,03:35:37
+US,"US Airways Inc.",2741,185,03:05:00
+AS,"Alaska Airlines Inc.",1513,193,03:12:50
+VX,"Virgin America",1158,183,03:03:24
+HA,"Hawaiian Airlines Inc.",320,250,04:09:52
